@@ -4,7 +4,7 @@
     border: 2px solid #ccc;
     border-radius: 5px;
     padding: 20px;
-    background-color: #f49797;
+    background-color: #79abec;
   }
   
   #display {
@@ -27,7 +27,7 @@
     font-size: 28px;
     border: none;
     border-radius: 5px;
-    background-color: #77ee97;
+    background-color: #dfe679;
     cursor: pointer;
   }
   
