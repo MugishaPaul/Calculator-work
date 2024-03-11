@@ -3,31 +3,31 @@
     margin: 50px auto;
     border: 2px solid #ccc;
     border-radius: 5px;
-    padding: 10px;
-    background-color: #fd3a3a;
+    padding: 20px;
+    background-color: #f49797;
   }
   
   #display {
     width: 100%;
     margin-bottom: 10px;
     padding: 10px;
-    font-size: 18px;
-    border: 1px solid #ccc;
+    font-size: 28px;
+    border: 1px solid #100f0f;
     border-radius: 3px;
   }
   
   .keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 5px;
+    grid-gap: 10px;
   }
   
   button {
-    padding: 10px;
-    font-size: 18px;
+    padding: 20px;
+    font-size: 28px;
     border: none;
-    border-radius: 3px;
-    background-color: #ccc;
+    border-radius: 5px;
+    background-color: #77ee97;
     cursor: pointer;
   }
   
